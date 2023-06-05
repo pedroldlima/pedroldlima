@@ -12,12 +12,15 @@
 [![Front-End_Mentor](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://www.frontendmentor.io/profile/PEDROLDLIM)
 [![Front-End_Mentor](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCHVNBhvMDDbjfqdKjkQTDHZHshwpjrMPtQDllNRMSsQBRtgVmnGXLbktGDkCSSlCpSPVq)
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PEDROLDLIM&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=pedroldlima&theme=nord&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+
 
 ## Progresso em cada tecnologia
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PEDROLDLIM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroldlima&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## Sorft Skils
 <hr>
