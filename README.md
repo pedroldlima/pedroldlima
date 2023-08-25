@@ -1,5 +1,4 @@
-### Olá Coders eu sou o Pedro Lucas Santana de Lima ✋
-#### Sou desenvolvedor Front End(react.js, vue.js, TypeScript, Sass, Less, Angular) e atualmente estudando desenvolvimento beck end com Node.js e postgreSQL.
+### Olá Coders eu sou o Pedro Lucas Santana de Lima ✋, Sou desenvolvedor Front End(react.js, vue.js, TypeScript, Sass, Less, Angular) e atualmente estudando desenvolvimento beck end com Node.js e postgreSQL.
 #### Tambem tenho conhecimento em Flutter para desenvolvimento Mobile.
 
  
