@@ -1,6 +1,6 @@
-### Olá Eu sou o Pedro Lucas Santana de Lima ✋
-#### Sou estudante de programação de sistemas no SENAC-GO.
-#### E atualmente desenvolvo em web.
+### Olá Coders eu sou o Pedro Lucas Santana de Lima ✋
+#### Sou desenvolvedor Front End(react.js, vue.js, TypeScript, Sass, Less, Angular) e atualmente estudando desenvolvimento beck end com Node.js e postgreSQL.
+#### Tambem tenho conhecimento em Flutter para desenvolvimento Mobile.
 
  
 <hr/><br>
@@ -23,14 +23,17 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroldlima&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## Sorft Skils
-<hr>
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="center" alt"HTML%" src="https://img.shields.io/badge/postgres-0e0b29?style=for-the-badge&logo=postgresql&labelColor=0e0b29" />
+<img align="center" alt="HTML%" src="https://img.shields.io/badge/postgres-0e0b29?style=for-the-badge&logo=postgresql&labelColor=0e0b29" />
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 </div><br>
 
-### Faça como um programador. Quando tudo está errado e confuso, apague tudo e recomece do zero 🌿👨‍💻
+#### Não é a linguagem de programação que define o programador, mas sim sua lógica 🌿👨‍💻
 <br>
