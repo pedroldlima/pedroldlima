@@ -1,5 +1,5 @@
-### Olá Coders eu sou o Pedro Lucas Santana de Lima ✋, Sou desenvolvedor Front End(react.js, vue.js, TypeScript, Sass, Less, Angular) e atualmente estudando desenvolvimento beck end com Node.js e postgreSQL.
-#### Tambem tenho conhecimento em Flutter para desenvolvimento Mobile.
+Olá, Coders! 👋 Sou Pedro Lucas Santana de Lima, Desenvolvedor Full Stack com especialização em Front End e experiência sólida em React.js, Vue.js, TypeScript, Sass, Less e Angular. Recentemente, concluí minha formação em desenvolvimento back-end, focando em Node.js e PostgreSQL, o que ampliou minha expertise na construção de soluções completas e robustas.
+Para o desenvolvimento mobile, também possuo experiência com Flutter, oferecendo soluções multiplataforma eficientes.
 
  
 <hr/><br>
